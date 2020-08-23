@@ -1,4 +1,5 @@
 ## Create Sample Trigger
+
 Create Trigger [schema].[trgAfterInsert] on [schema].[table_name]
 After insert
 As
